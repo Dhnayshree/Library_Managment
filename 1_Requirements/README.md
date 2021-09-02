@@ -41,6 +41,7 @@ The timeline to complete this work is 1 week
 
 * **Software** :   Visual Studio code(version 1.57).
 *  **Concept Used** : Object-Oriented programming
+*  **Language** : C++ 
 
  
  
