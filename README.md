@@ -10,7 +10,8 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 
 
 **Modules:**
-Students Details- We will be able to add or update the student details such as name, roll number, etc. These details will be stored in different variables.
+
+Students Details- We can  add or update the student details such as name, roll number, etc. These details will be stored in different variables.
 
 Add/Remove/Update Books- This library management system project will be programmed to add, remove, or update books easily that will make it more efficient.
 
@@ -84,18 +85,15 @@ Database- All the information added or removed will be updated in the database. 
 |5 | C/C++ CI - Build Status is not passing |  By modifying the code |
 
 
- ####  **Software Used**
- ####    Platform : Visual Studio(**C++**) 
- ####    Version : (version 1.57)
- ####    UML Diagram: Draw.io
- ####    Badges : Code Inspector , Codacy , Git Inspector , Cpp Check , Valgrind Check
- ####    Learn github workflow
- 
- # My project uses:
 
-*  Object-Oriented programming
-*  File handling
-*  Regular Expressions
-*  Array handling
-*  Time module
-*  Modular Approach in programming
+ ##   My Project Uses:
+   *  Object-Oriented programming
+   *  File handling
+   *  Array handling
+   *  Platform : Visual Studio(**C++**) 
+   *  Version : (version 1.57)
+   *  UML Diagram: Draw.io
+   *  Badges : Code Inspector , Codacy , Git Inspector , Cpp Check , Valgrind Check
+   *  Learn github workflow
+ 
+ 
