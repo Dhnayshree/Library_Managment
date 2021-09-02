@@ -35,3 +35,10 @@ The timeline to complete this work is 1 week
   | Time | cost | Feature |
   |------| -----|---------|
   | 7 days   |  No cost    |         |
+  
+  
+  ## Defining the System
+
+#### **Software** :  The platform  used to run  this project is visual studio code(version 1.57).
+#### **Operating System** :  Windows 10
+#### **Concept** :  **File Handling**
