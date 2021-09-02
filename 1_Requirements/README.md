@@ -39,7 +39,7 @@ The timeline to complete this work is 1 week
   
   ## Defining the System
 
-* **Software** :  The platform  used to run  this project is visual studio code(version 1.57).
+* **Software** :   Visual Studio code(version 1.57).
 *  **Concept Used** : Object-Oriented programming
 
  
