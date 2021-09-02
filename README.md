@@ -79,7 +79,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 
 
 
- ##   My Project Uses:
+ ##   Project Uses:
    *  Object-Oriented programming
    *  File handling
    *  Array handling
