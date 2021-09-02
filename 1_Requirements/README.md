@@ -10,9 +10,28 @@ Hence, to prevent these issues, We thought of making a Library-management  Syste
 * The system excludes the use of paper work by managing all the book information electronically.
 * Admin can keep updating the system by providing the new books arrival in system and their availability thus students need not to go to library for issuing purpose.
 * The system has books well organized and systematically arranged in different categories in the system so that user can easily search and find the book.
-* Thus, it saves human efforts and resources.
-* The 
+* Thus, it saves human efforts and resources. 
 * library management system will help in managing books record . The information of the system will be handled in just one click.
 * Library Database Management -The details of the books of the organisation can be stored in the database with the application.
 * Results - The bboks issued  by  the students can also be accesed and stored through this application.
 * One click access-It uses files as database to perform file handling operations such as admin and user login, add and update books ,Search option , view orders and placed order. records with just a click.
+
+## Cost Features Timeline
+
+#### **Features**
+* The features are to perform basic fundamental operations such as admin and user login, add and update books ,Search option , view orders and placed order.
+* The system captures and stores book’s records . 
+* The admin can modify and update the records.
+#### **Ageing**
+* If the first period was about system building and the second period was about its expansion and the internal renegotiation—among students and schools, and schools and each other—that massification required, the current period is characterized by new external demands that have been placed on the system by several forms of accountability: privacy, equity, and efficiency. 
+* Though all of these pressures predate the current period in some form, major shifts in American political dynamics and in the availability of computing power and digital technologies have converged to amplify old concerns and produce new ones.
+
+
+#### **Timeline**
+The timeline to complete this work is 1 week
+
+
+  
+  | Time | cost | Feature |
+  |------| -----|---------|
+  | 7 days   |  No cost    |         |
