@@ -1,4 +1,4 @@
-# Library Managment System
+# PROJECT : LIBRARY MANAGEMENT SYSTEM
 
 
 
@@ -20,13 +20,6 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 * Authentication- You can easily login to the LMS service with different roles. If you are an admin then you will get the admin id and password from which you can easily access the admin services and the same for all the users.
 
 * Database- All the information added or removed will be updated in the database. If you are an admin then you can access and edit the database
-
-
-
-
-## PROJECT : LIBRARAY MANAGEMENT SYSTEM
-
-
 
 
 
