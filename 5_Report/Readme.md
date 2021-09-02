@@ -33,3 +33,8 @@ This application is useful in the library process starts , when the librarian ha
 
 **How:**
    In Library mangement system , librarian need to search  students history which will crate confusion to handle new commers .In order to avoid confusion we can go through this application in order to make our task easy.
+
+
+## **SWOT Analysis**
+
+(![image](https://user-images.githubusercontent.com/61508935/131898682-4f742c6c-39be-422a-b009-f1ea94201d38.png)
