@@ -106,7 +106,8 @@ Lowlevel Requirements:
   
 ## **SWOT Analysis**
 
-![SWOT]()
+![SWOT](![image](https://user-images.githubusercontent.com/61508935/131898682-4f742c6c-39be-422a-b009-f1ea94201d38.png)
+)
 
 
   
