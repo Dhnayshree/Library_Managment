@@ -7,8 +7,12 @@ Hence, to prevent these issues, We thought of making a Library-management  Syste
 ## Research 
 [Visit website]{https://nevonprojects.com/e-library-project/}].
 
-The student record system will help in managing students reports. It will help in saving time and effort. The information of the system will be handled in just one click.
-Student Database Management -The details of the students of the organisation can be stored in the database with the application.
-Results - The marksheet of the students can also be accesed and stored through this application.
-Performance-The performance of the students can be stored through this application.
-One click access-It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records with just a click.
+* The system excludes the use of paper work by managing all the book information electronically.
+* Admin can keep updating the system by providing the new books arrival in system and their availability thus students need not to go to library for issuing purpose.
+* The system has books well organized and systematically arranged in different categories in the system so that user can easily search and find the book.
+* Thus, it saves human efforts and resources.
+* The 
+* library management system will help in managing books record . The information of the system will be handled in just one click.
+* Library Database Management -The details of the books of the organisation can be stored in the database with the application.
+* Results - The bboks issued  by  the students can also be accesed and stored through this application.
+* One click access-It uses files as database to perform file handling operations such as admin and user login, add and update books ,Search option , view orders and placed order. records with just a click.
