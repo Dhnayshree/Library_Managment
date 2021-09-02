@@ -41,7 +41,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 | PS ID  | Name          | Features                    | Issues Raised |  Issues Resolved   |
 |---     |---            |---                          |---------------|----------------|
 | 99005771 | Arti Yadav |Requirements  |           |             |  
-
+| 99005809 | Ashushree Fulzele |  |           |             |  
 
 
 ## Features Table 
