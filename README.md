@@ -72,7 +72,7 @@ Database- All the information added or removed will be updated in the database. 
 |F_3	|New records gets saved in file at program shut down|
 
 ## GIT-Inspector Summary
-![GIT-Inspector](https://github.com/SAIRAJL/SDLC_17_Interns_Club/blob/main/6_Videos_and_Images/Git.PNG)
+
 ## Challenges faced and How it was Overcome
 
 | Sr. No. | Challenges | Overcome |
