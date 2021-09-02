@@ -5,10 +5,26 @@
 ## **LTTS Genesis project** 
  
 ## **SDLC ACTIVITY BASED LEARNING**
-The main aim of this project is to apply the concept of File Handling to keep record of the student in an computerized way in order to maintain details of student.Students form a major part of any institution that concerns with. There are records that have to be maintained. But the institution finds it difficult to maintain large records of so many students of the organization. Huge heap files will be required. Plus there is no guarantee of such data in huge heap of files. Hence, to prevent these issues, We thought of making a Student Record System to help in quickly accessing and updating the data of students at a single place making it time efficient.The project capabilities include registration process of add, edit, delete, find, update results, list students.
+A college library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book. It becomes necessary for colleges to keep a continuous check on the books issued and returned and even calculate fine. This task if carried out manually will be tedious and includes chances of mistakes. These errors are avoided by allowing the system to keep track of information such as issue date, last date to return the book and even fine information and thus there is no need to keep manual track of this information which thereby avoids chances of mistakes.
+Thus this system reduces manual work to a great extent allows smooth flow of library activities by removing chances of errors in the details.
 
-## PROJECT : STUDENT MANAGEMENT SYSTEM
-https://user-images.githubusercontent.com/61508935/130198768-ab0eea71-b4a9-4d85-b2dc-7bc2463ce2a6.mp4
+
+**Modules:**
+Students Details- We will be able to add or update the student details such as name, roll number, etc. These details will be stored in different variables.
+
+Add/Remove/Update Books- This library management system project will be programmed to add, remove, or update books easily that will make it more efficient.
+
+Complete Books Details- This C++ program will include all the complete details of books present in the store. 
+
+Authentication- You can easily login to the LMS service with different roles. If you are an admin then you will get the admin id and password from which you can easily access the admin services and the same for all the users.
+
+Database- All the information added or removed will be updated in the database. If you are an admin then you can access and edit the database
+
+
+
+
+## PROJECT : LIBRARAY MANAGEMENT SYSTEM
+
 
 
 
@@ -42,16 +58,9 @@ https://user-images.githubusercontent.com/61508935/130198768-ab0eea71-b4a9-4d85-
 
 | PS ID  | Name          | Features                    | Issues Raised |  Issues Resolved   |
 |---     |---            |---                          |---------------|----------------|
-| 99005771 | Arti Yadav | Documentation |       2     |        0     |  
-| 99005782 | Srushti Lingawar | Requirements and Design |       0     |       0      |  
-| 99005773 | Shrishti Singh | Requirements and Design & Documentation |         0   |     0        |  
-| 99005795 | Sairaj Lp| Coding and Implementation |       0     |    2         |  
-|  99005794 | Divas kr singh | Testing and planning |     0       |    0         |  
-| 99005785 | Yogesh Kathole | Coding and Implementation |       2     |    2         |  
-| 99005809  | Ashushree Fulzele | Requirements and Design |     0       |           0  |  
-| 99005828 | Juhil Mohadikar | Testing and planning |       0     |    0         |  
-| 99005854 | Dhanyashre V Reddy | Documentation |        0    |   0          |  
-| 99005801 | Mandeep Karwa | Testing and planning |       0     |        0     |  
+| 99005771 | Arti Yadav |Requirements  |           |             |  
+
+
 
 ## Features Table 
 
