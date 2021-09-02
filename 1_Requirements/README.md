@@ -64,5 +64,50 @@ Library Management System  help in quick accessing and updating the data of the 
 
 ## **4W's and 1'H**
 
+**Who:** 
+In the organisation, the librarian can keep the record of the books borrowed,date of issuing , add record of student,name of the books issued in order to keep the systematic record for future purpose.
+ 
+**When:**
+This application is useful in the library process starts , when the librarian have to deals with n number of students during the issuing of books .
+
+
+**What:**
+
+   These  helps library incharge to deal  easily with differnt branch of students.
+   
+**Where:**
+   This problem is expected to surface in all the institutes.
+
+**How:**
+   In Library mangement system , librarian need to search  students history which will crate confusion to handle new commers .In order to avoid confusion we can go through this application in order to make our task easy.
+
+
+## **Detail Requirement**
+
+High Level Requirements
+
+|  Id  |            Description             | Category  | Status      |
+| ---- | ---------------------------------- | --------  | ----------- |
+| HR01 | User can be able to add new book details  | Technical | Implemented |
+| HR02 | User can be able to update any book details| Technical | Implemented |
+| HR03 | User can be able to delete details | Technical | Implemented |
+| HR04 | User can be able to slist all books details | Technical | Implemented |
+| HR05 | User can be able to print record | Technical | Implemented |
+| HR06 | User can be able to get help     | Technical |Implemented    |
+| HR07 | User can view the results    | Technical |Implemented|
+
+Lowlevel Requirements:
+ 
+   |  ID   |     DESCRIPTION                     |   CATEGORY  |  STATUS      |       
+  |:-----:|:-----------------------------------:|:-----------:|:------------:|
+  |LR01  |User shall be able to enter correct username and password| Technical   |Implemented|
+  |LR02  |The Head Pointer for traversal through the List/ Records  | Technical |Implemented|
+  
+  
+## **SWOT Analysis**
+
+![SWOT]()
+
+
   
 
