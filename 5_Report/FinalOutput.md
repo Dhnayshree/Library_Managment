@@ -4,7 +4,7 @@
 ![first screen](https://user-images.githubusercontent.com/80781718/131964274-fe803b67-2b24-495f-8ead-a4ece1571ce1.jpg)
 
 ### Librarian Features
-#### 1 
+#### 1 - Enter credentails
 ![librian screen 1](https://user-images.githubusercontent.com/80781718/131964478-de68595a-4142-48a0-9e4f-fae5cff3ea32.jpg)
 
 ![librarian screen 2](https://user-images.githubusercontent.com/80781718/131964483-d398d11a-2aae-4ecd-80da-c9f003a6da8a.jpg)
