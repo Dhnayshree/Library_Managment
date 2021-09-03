@@ -32,7 +32,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 | 4_Test Plan and Output | Documents with test plans and outputs |
 | 5_Report | Generated Report |
 | 6_ImagesandVideos | All the UML diagrams and other required images |
-|7_Others | All the Related Documents|
+| 7_Others | All the Related Documents|
 
 
   
@@ -41,7 +41,8 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 | PS ID  | Name          | Features                    | Issues Raised |  Issues Resolved   |
 |---     |---            |---                          |---------------|----------------|
 | 99005771 | Arti Yadav |Requirements  |           |             |  
-| 99005809 | Ashushree Fulzele |  |           |             |  
+| 99005809 | Ashushree Fulzele |  |           |             |
+| 99005854 | Dhanyashree V Reddy | Implementation |     0      |       0      |
 
 
 ## Features Table 
@@ -51,6 +52,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 |F_1	|Option to load older saved data|
 |F_2	|Save data to file if only new data is added|
 |F_3	|New records gets saved in file at program shut down|
+|F_4 |View all the books from admin and Stuent perspective|
 
 ## GIT-Inspector Summary
 
