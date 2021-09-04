@@ -42,7 +42,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 |---     |---            |---                          |---------------|----------------|
 | 99005771 | Arti Yadav |Requirements  |           |             |  
 | 99005809 | Ashushree Fulzele |  |           |             |
-| 99005854 | Dhanyashree V Reddy | Implementation |     0      |       0      |
+| 99005854 | Dhanyashree V Reddy | Implementation, Test Plan |     0      |       0      |
 
 
 ## Features Table 
