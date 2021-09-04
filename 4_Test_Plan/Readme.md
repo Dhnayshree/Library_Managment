@@ -8,7 +8,8 @@
 |  H_02       |Checking the operation of MODIFY the book| Available book get modified | Modifucation of available book | SUCCESS |Technical |
 |  H_03       |Checking the operation of DISPLAYING the existing list |Choice to select the book | Selected book get displayed | SUCCESS |Technical |
 ## Table no: low level test plan
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  | 
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01      |Adding the Book name||User=>Alphbetic character | SUCCESS |Technical  |
 |  L_02      |Adding the Author name||User=>Alphabetic character | SUCCESS |Technical  |
 |  L_03      |Adding the Book ID||User=>Alphanumeric number | SUCCESS |Technical  |
