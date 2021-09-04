@@ -13,6 +13,6 @@
 |  L_01      |Adding the Book name|User=>Alphbetic character | SUCCESS ||REQUIREMENT  |
 |  L_02      |Adding the Author name|User=>Alphabetic character | SUCCESS| |REQUIREMENT |
 |  L_03      |Adding the Book ID|User=>Alphanumeric number | SUCCESS| |REQUIREMENT  |
-|  L_04      |Adding the Publication name|User=>Alphabetic character || SUCCESS |REQUIREMENT |
+|  L_04      |Adding the Publication name|User=>Alphabetic character | SUCCESS ||REQUIREMENT |
 |  L_05      |Adding the Price|User=>Numeric number| SUCCESS ||REQUIREMENT  |
 |  L_06      |Adding the Quantity|User=>Numeric number| SUCCESS| |REQUIREMENT  |
