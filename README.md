@@ -40,7 +40,7 @@ Thus this system reduces manual work to a great extent allows smooth flow of lib
 
 | PS ID  | Name          | Features                    | Issues Raised |  Issues Resolved   |
 |---     |---            |---                          |---------------|----------------|
-| 99005771 | Arti Yadav |Requirements  |           |             |  
+| 99005771 | Arti Yadav |Requirements  |      0     |         0    |  
 | 99005809 | Ashushree Fulzele | REport, Test Plan |    0       |       0      |
 | 99005854 | Dhanyashree V Reddy | Implementation, Test Plan |     0      |       0      |
 | 99005794 | Divas Kumar Singh | Test Plan |     0      |       0      |
