@@ -84,17 +84,17 @@ This application is useful in the library process starts , when the librarian ha
 
 ## **Detail Requirement**
 
-High Level Requirements
+Low Level Requirements
 
 |  Id  |            Description             | Category  | Status      |
 | ---- | ---------------------------------- | --------  | ----------- |
 | HR01 | User can be able to add new book details  | Technical | Implemented |
 | HR02 | User can be able to update any book details| Technical | Implemented |
 | HR03 | User can be able to delete details | Technical | Implemented |
-| HR04 | User can be able to slist all books details | Technical | Implemented |
-| HR05 | User can be able to print record | Technical | Implemented |
+| HR04 | User can be able to list all books details | Technical | Implemented |
+| HR05 | User can be able issue more books | Technical | Implemented |
 
-Lowlevel Requirements:
+High level Requirements:
  
    |  ID   |     DESCRIPTION                     |   CATEGORY  |  STATUS      |       
   |:-----:|:-----------------------------------:|:-----------:|:------------:|
