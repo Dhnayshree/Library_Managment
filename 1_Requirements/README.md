@@ -93,8 +93,6 @@ High Level Requirements
 | HR03 | User can be able to delete details | Technical | Implemented |
 | HR04 | User can be able to slist all books details | Technical | Implemented |
 | HR05 | User can be able to print record | Technical | Implemented |
-| HR06 | User can be able to get help     | Technical |Implemented    |
-| HR07 | User can view the results    | Technical |Implemented|
 
 Lowlevel Requirements:
  
