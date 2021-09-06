@@ -44,7 +44,7 @@ The timeline to complete this work is 1 week
 *  **Language** : C++ 
 
 
-Library Management System  help in quick accessing and updating the data of the books at a single place making it time efficient.The project cover the functions such as admin and user login, add and update books ,Search option , view orders and placed order.
+Library Management System  help in quick accessing and updating the data of the books at a single place making it time efficient.The project cover the functions such as admin and user login, add and update books ,Search option , view orders .
 
 **Modules:**
 
@@ -58,9 +58,6 @@ Library Management System  help in quick accessing and updating the data of the 
 
 * View Order-The admin can view order for the books.
 
-* Place order- The students can place order for the books and simultaneously the quantity of the book ordered will be decremented.
-
-* Calculate Fine- The student can view the issue and expiry date for the book issued and can even calculate fine.
 
 ## **4W's and 1'H**
 
